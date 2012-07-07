@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sun Jul 01 21:51:21 EST 2012
+markTmpDer=true
+builderNum=2
+outputDir=out
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=main.tex
+outputFile=2012-06-21-MeetingNotes.pdf
+langSpell=en
+markDer=true
+srcDir=src
